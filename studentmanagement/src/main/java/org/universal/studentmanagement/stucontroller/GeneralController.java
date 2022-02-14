@@ -8,7 +8,7 @@ public class GeneralController {
 
 	@GetMapping("/")
 	public String welcomeMessage() {
-		return "Welcome for the demo";
+		return "Welcome for the Jenkins demo";
 	}
 
 }
